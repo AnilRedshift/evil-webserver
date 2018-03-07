@@ -8,4 +8,4 @@ const server = http.createServer((request, response) => {
 });
 
 const port = process.env.PORT || 3000;
-server.listen(port, (e) => console.log(e ? 'Oops': `Server running on port ${port}`));
+server.listen(port, (e) => console.log(e ? 'Oops': `Server running on http://localhost:${port}`));
