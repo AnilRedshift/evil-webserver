@@ -1,0 +1,26 @@
+{
+  "name": "evil-webserver",
+  "version": "1.0.0",
+  "description": "For when you just want to ragequit at webdev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnilRedshift/evil-webserver.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "ragequit",
+    "lulz"
+  ],
+  "author": "Anil Kulkarni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnilRedshift/evil-webserver/issues"
+  },
+  "homepage": "https://github.com/AnilRedshift/evil-webserver#readme",
+  "dependencies": {}
+}
