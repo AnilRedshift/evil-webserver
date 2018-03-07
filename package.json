@@ -1,8 +1,9 @@
 {
   "name": "evil-webserver",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "For when you just want to ragequit at webdev",
   "main": "index.js",
+  "bin": "./bin/evil-webserver",
   "scripts": {
     "start": "node ./index.js"
   },
